@@ -1,0 +1,5 @@
+[component_0]
+type = Library
+name = EncodeFunctions
+parent = Transforms
+library_name = EncodeFunctions
